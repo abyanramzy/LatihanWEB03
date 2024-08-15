@@ -23,7 +23,13 @@ body {
 }
 
 .logo {
-    font-size: 24px;
+    width: 70px;  
+    height: 70px;  
+    border-radius: 50%;  
+    background-color: #ccc;  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
     font-weight: bold;
 }
 
